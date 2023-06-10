@@ -2,6 +2,7 @@
 .container{
     border-top : #5ea4f3; 
     background-color : #f7fbff;
+	text-align:center;
 }
 
 .inner-container{
@@ -13,6 +14,10 @@
 
 h1{
    color: #3b99e0;
+}
+
+p{
+	color:black;
 }
 
 .phone-gallery{
