@@ -23,11 +23,9 @@ p{
 .phone-gallery{
     display:flex;
     flex-direction: column;
-    row-gap:30px;
 }
 
 .mobile{
     display:flex; 
     column-gap: 20px;
-    
 }
